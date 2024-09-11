@@ -100,18 +100,14 @@ const App = () =>{
 
       <section className='container'id='about' >
         <div className='header_concept' >
-          <h1 className='title1'> FOUNDER</h1>
-          <h2 className='title2'> FOUNDER           <img className='icon-img' src={'entrepeneur.png'}/>
-</h2>
+          <h1 className='title1'> ABOUT</h1>
+          <h2 className='title2'> ABOUT           
+            <img className='icon-img' src={'entrepeneur.png'}/>
+            </h2>
         </div>
         
         <div className='description'>
-                <p>MFR Consulting is founded and managed by <span>Raphahlelo Moipone Felicia</span> who
-                holds a diploma in Business Administration (Human Resource Management) from 
-                Richfield Graduate Institute of Technology And has an extensive experience in 
-                the HR space from working at <span>Quarphix Corporation</span> as an <span>
-                  HR and Operations Coordinator</span>. I have a number of successfully executed 
-                  projects under the belt , responsibilities but are not limited to:  
+                <p>MFR Consulting services
                   </p> 
                   <div className='offers'>
                     <ul>
