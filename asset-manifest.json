@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mfr-consulting/static/css/main.ae2be9f4.css",
-    "main.js": "/mfr-consulting/static/js/main.f6ecd1d2.js",
+    "main.js": "/mfr-consulting/static/js/main.9097a673.js",
     "static/js/787.cac030c0.chunk.js": "/mfr-consulting/static/js/787.cac030c0.chunk.js",
     "static/media/mockup2.jpg": "/mfr-consulting/static/media/mockup2.4def4ece99a8c7e0778e.jpg",
     "static/media/list.png": "/mfr-consulting/static/media/list.fe65d7757d18f7685607.png",
     "index.html": "/mfr-consulting/index.html",
     "main.ae2be9f4.css.map": "/mfr-consulting/static/css/main.ae2be9f4.css.map",
-    "main.f6ecd1d2.js.map": "/mfr-consulting/static/js/main.f6ecd1d2.js.map",
+    "main.9097a673.js.map": "/mfr-consulting/static/js/main.9097a673.js.map",
     "787.cac030c0.chunk.js.map": "/mfr-consulting/static/js/787.cac030c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae2be9f4.css",
-    "static/js/main.f6ecd1d2.js"
+    "static/js/main.9097a673.js"
   ]
 }
